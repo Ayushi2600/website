@@ -1,8 +1,8 @@
 # Build-Ecommerce-Website-With-HTML-CSS-JavaScript
 
-[<img alt="Build-Responsive-Ecommerce-Website-With-HTML-CSS-JavaScript" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/Build-Responsive-Ecommerce-Website-With-HTML-CSS-JavaScript.png?raw=true" />](https://www.youtube.com/playlist?list=PL9bD98LkBR7O4_SVeN8IXLQRjrGontmbT)
+![E-Commerce Website](Website.PNG)
 
-## Why you need this course?
+## Overview
 Creating an e-commerce website using HTML, CSS, and JavaScript can be a challenging and rewarding project that allows you to learn and develop a wide range of skills. Some of the things you might learn while creating an e-commerce website include:
 
 - HTML: HTML (HyperText Markup Language) is the standard markup language for creating web pages. By creating an e-commerce website, you will have the opportunity to learn how to use HTML to structure and format the content of your website, including headings, paragraphs, lists, links, images, and forms.
