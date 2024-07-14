@@ -1,6 +1,6 @@
 # Build-Ecommerce-Website-With-HTML-CSS-JavaScript
 
-![E-Commerce Website](Website.PNG)
+![E-Commerce Website](website.PNG)
 
 ## Overview
 Creating an e-commerce website using HTML, CSS, and JavaScript can be a challenging and rewarding project that allows you to learn and develop a wide range of skills. Some of the things you might learn while creating an e-commerce website include:
@@ -34,4 +34,4 @@ Overall, using Bootstrap can be a helpful way to create an e-commerce website by
 - Part3: Blog Page.
 - Part4: Ecommerce Shopping Cart.
 
-Here you will find all the images I'm using to create this responsive ecommerce website. In future image folder can update.
+Here you will find a image folder.
